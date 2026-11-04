@@ -49,7 +49,7 @@ The following factions are listed in the Steam Workshop description. Some requir
 ## Installation
 
 1. Download this repository using **Code — Download ZIP**, or clone it with Git.
-2. Create a folder with this name `pbcr` And put the contents of the archive in this folder:
+2. Create a folder with this name `pbcr` And put the contents: `lua` and `materials` from the archive in this folder:
 
    ```text
    garrysmod/addons/pbcr/
