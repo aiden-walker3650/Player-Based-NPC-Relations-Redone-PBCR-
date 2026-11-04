@@ -41,8 +41,8 @@ The following factions are listed in the Steam Workshop description. Some requir
 | Half-Life: Resurgence | Race X | `race_x` | Half-Life: Resurgence |
 | Half-Life: Resurgence | Black Operations | `blackops` | Half-Life: Resurgence |
 | Portal | Aperture Science | `aperture` | Portal |
-| Other | Outcast | `outcast` | ” |
-| Other | Neutral | `neutral` | ” |
+| Other | Outcast | `outcast` | — |
+| Other | Neutral | `neutral` | — |
 
 > **Note:** Factions tied to other games or mods require that content to be installed. Their availability may depend on your setup.
 
