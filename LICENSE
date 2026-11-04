@@ -1,0 +1,105 @@
+PBCR ATTRIBUTION LICENSE
+Version 1.0
+
+Copyright (c) 2025-2026 Aiden Walker 3650
+
+SPDX-License-Identifier: LicenseRef-PBCR-Attribution-1.0
+
+1. DEFINITIONS
+
+"Addon" means Player Based NPC Relations Redone (PBCR), including its
+original source code, documentation, and accompanying files made available
+by Aiden Walker 3650, but excluding third-party materials identified as
+being subject to separate terms.
+
+"You" means the individual or legal entity exercising permissions under
+this License.
+
+"Original Creator" means Aiden Walker 3650, the original creator and
+developer of PBCR and its original code.
+
+"Use" includes copying, running, studying, modifying, adapting,
+incorporating, publishing, distributing, and making the Addon or portions
+of its code available as part of another project.
+
+2. PERMISSION GRANT
+
+Subject to the conditions in this License, permission is hereby granted,
+free of charge, to any person obtaining a copy of the Addon or a portion of
+its original source code to use, reproduce, modify, adapt, merge, publish,
+distribute, sublicense, and sell copies of the Addon or derivative works,
+including for commercial purposes.
+
+3. ATTRIBUTION REQUIREMENTS
+
+Attribution is a mandatory condition of the permission granted above.
+Whenever You use or distribute the Addon, a modified version of it, or any
+portion of its original source code incorporated into another addon or
+project, You must:
+
+  a. Clearly credit "Aiden Walker 3650" as the original creator of Player
+     Based NPC Relations Redone (PBCR) and as the author of the original
+     PBCR code that You reused.
+
+  b. Place the credit in a reasonably visible location appropriate to the
+     form of distribution. Examples include the project's README, credits
+     file, documentation, About screen, addon description, or Workshop page.
+     When source code is distributed, retain this License and the original
+     copyright notice with the distributed copy. For reused code, include
+     an attribution comment in the relevant source file or provide the
+     attribution in a clearly identified CREDITS or NOTICE file.
+
+  c. Clearly indicate that You have modified the original Addon or code
+     when that is the case. You must not present Your modified work as the
+     unmodified original PBCR release.
+
+  d. Not state or imply that the Original Creator sponsors, approves, or
+     endorses Your project unless You have separate written permission.
+
+The credit must not be hidden in a way that makes it unreasonable for users
+of the project to find.
+
+Suggested attribution:
+
+  Based on / includes code from Player Based NPC Relations Redone (PBCR)
+  Original creator and code author: Aiden Walker 3650
+  Modified by: [Your name or project]
+  Original project: https://steamcommunity.com/sharedfiles/filedetails/?id=3611618315
+
+4. REDISTRIBUTION
+
+You may distribute the Addon and derivative works under these terms or
+under additional terms of Your choice, provided that Your distribution
+continues to satisfy the attribution requirements in Section 3 and includes
+this License and the applicable copyright notice. You may not remove or
+weaken the attribution requirements for the original Addon or original
+PBCR code.
+
+5. THIRD-PARTY MATERIALS
+
+This License applies only to material owned by the Original Creator and
+provided as part of PBCR. Any third-party code, assets, libraries, or other
+materials remain subject to their own licenses and terms. You are
+responsible for identifying and complying with those separate terms.
+
+6. NO WARRANTY
+
+THE ADDON IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE ORIGINAL CREATOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE ADDON OR THE USE OR OTHER DEALINGS IN THE ADDON.
+
+7. TERMINATION
+
+Your permissions under this License terminate automatically if You fail
+to comply with its terms. If the violation is corrected, permissions are
+reinstated subject to applicable law.
+
+8. GENERAL
+
+This License does not transfer ownership of the Addon or its original
+code. All rights not expressly granted are reserved by the Original
+Creator. This is a custom license written for PBCR; it is not a standard
+OSI-approved open-source license.
