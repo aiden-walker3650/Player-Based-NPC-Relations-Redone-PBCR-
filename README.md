@@ -69,7 +69,7 @@ Commands can be entered in the developer console. Server-side commands and setti
 | Command | Description | Default |
 |---|---|---|
 | `pbcr_admin_only <0/1>` | Set to `1` to allow only server administrators to change their faction. Set to `0` to allow all players to change their faction. | `0` |
-| `pbcr_setfaction_to_player "<player name or SteamID>" <faction>` | Set a specific player's faction. This is an administrator command. Put the player name or SteamID in quotation marks. | â€” |
+| `pbcr_setfaction_to_player "<player name or SteamID>" <faction>` | Set a specific player's faction. This is an administrator command. Put the player name or SteamID in quotation marks. | —” |
 
 Example:
 
