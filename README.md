@@ -25,19 +25,13 @@ Whether you want to blend in with the Combine, lead a squad of Rebels, or test c
 
 PBCR includes server settings and commands to help administrators manage factions efficiently.
 
-### Admin ConVars
+### Admin ConVars:
 * `pbcr_admin_only <0/1>` — Set to `1` to restrict faction switching exclusively to server administrators.
 
 ---
 
-## 📦 Installation
+## Installation:
 
 1. Download or clone this repository.
 2. Drop the `pbcr` folder into your Garry's Mod `garrysmod/addons/` directory.
 3. Restart your server or launch your singleplayer game.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
