@@ -48,7 +48,7 @@ The following factions are listed in the Steam Workshop description. Some requir
 
 ## Installation
 
-1. Download this repository using **Code â†’ Download ZIP**, or clone it with Git.
+1. Download this repository using **Code — Download ZIP**, or clone it with Git.
 2. Place the addon's `pbcr` folder in your Garry's Mod addons directory:
 
    ```text
