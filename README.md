@@ -16,15 +16,15 @@ PBCR lets you change your player faction so that supported NPCs react to you acc
 
 ## Features
 
-- **Player faction switching** â€” choose a faction through the PBCR tab in the Spawn Menu or use a console command.
-- **NPC and SNPC relationship handling** â€” supported NPCs respond to the player's selected faction.
-- **Broad NPC compatibility** â€” designed to work with standard NPCs and SNPCs, with compatibility for **VJ Base** and **ZBase**.
-- **Multiplayer support** â€” faction selection and administration features are available in multiplayer.
-- **No NPC renaming** â€” PBCR uses the game's `CLASS_*` classifications and `Classify` function rather than changing NPC names.
-- **Admin permissions** â€” server administrators can restrict faction switching and set a player's faction.
-- **Notifications and hints** â€” in-game hints explain faction changes, commands, and errors. Players can disable notifications.
-- **Localization** â€” includes language support, with English, Russian, Ukrainian, and German examples.
-- **Event-based updates** â€” PBCR applies the faction when it is changed; it does not need to poll relationships every tick.
+- **Player faction switching** ”choose a faction through the PBCR tab in the Spawn Menu or use a console command.
+- **NPC and SNPC relationship handling** ”supported NPCs respond to the player's selected faction.
+- **Broad NPC compatibility** ”designed to work with standard NPCs and SNPCs, with compatibility for **VJ Base** and **ZBase**.
+- **Multiplayer support** ”faction selection and administration features are available in multiplayer.
+- **No NPC renaming** ”PBCR uses the game's `CLASS_*` classifications and `Classify` function rather than changing NPC names.
+- **Admin permissions** ”server administrators can restrict faction switching and set a player's faction.
+- **Notifications and hints** ”in-game hints explain faction changes, commands, and errors. Players can disable notifications.
+- **Localization** ”includes language support, with English, Russian, Ukrainian, and German examples.
+- **Event-based updates** ”PBCR applies the faction when it is changed; it does not need to poll relationships every tick.
 
 ## Available factions
 
@@ -41,8 +41,8 @@ The following factions are listed in the Steam Workshop description. Some requir
 | Half-Life: Resurgence | Race X | `race_x` | Half-Life: Resurgence |
 | Half-Life: Resurgence | Black Operations | `blackops` | Half-Life: Resurgence |
 | Portal | Aperture Science | `aperture` | Portal |
-| Other | Outcast | `outcast` | â€” |
-| Other | Neutral | `neutral` | â€” |
+| Other | Outcast | `outcast` | ” |
+| Other | Neutral | `neutral` | ” |
 
 > **Note:** Factions tied to other games or mods require that content to be installed. Their availability may depend on your setup.
 
@@ -104,9 +104,9 @@ Compatibility can vary with third-party addons and custom NPC implementations. T
 
 ## Credits
 
-- **Aiden Walker 3650** â€” creator and developer of Player Based NPC Relations Redone (PBCR), including its original code.
-- **AHTOXA** â€” tested the addon during development.
-- **Funni Taco** â€” created the original concept that inspired this addon.
+- **Aiden Walker 3650** ”creator and developer of Player Based NPC Relations Redone (PBCR), including its original code.
+- **AHTOXA** ”tested the addon during development.
+- **Funni Taco** ”created the original concept that inspired this addon.
 
 ## License and attribution
 
